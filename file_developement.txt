@@ -1,2 +1,2 @@
 #Ini Adalah File Developemet
-dibuat untuk branching
+dibuat untuk branching, bentrok dengan file dev di main

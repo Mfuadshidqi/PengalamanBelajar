@@ -1,3 +1,2 @@
 #Ini Adalah File Developemet
-dibuat untuk branching
-membuat conflic antar branch 001
+dibuat untuk branching, bentrok dengan file dev di main
